@@ -1,0 +1,39 @@
+body {
+  background-image: url(https://wallpaperplay.com/walls/full/4/e/0/67920.jpg);
+}
+h1 {
+  text-align: center;
+  color: antiquewhite;
+}
+h3 {
+  text-align: center;
+}
+.important {
+  text-align: center;
+  color: aquamarine;
+  font-style: italic;
+}
+
+.strong {
+  color: cadetblue;
+  font-weight: bold
+}
+
+.big {
+  font-size: 24px;
+}
+.col-md-4 {
+  color: wheat
+}
+
+.col-md-3 {
+  color: wheat
+}
+
+.col-md-6 {
+  color: wheat
+}
+
+.form-group {
+  color: wheat
+}
