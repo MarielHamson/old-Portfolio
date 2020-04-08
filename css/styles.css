@@ -8,19 +8,10 @@ h1 {
 h3 {
   text-align: center;
 }
-.important {
-  text-align: center;
-  color: aquamarine;
-  font-style: italic;
-}
-
-.strong {
-  color: cadetblue;
-  font-weight: bold
-}
 
 .big {
-  font-size: 24px;
+  font-size: 36px;
+  color: antiquewhite;
 }
 .col-md-4 {
   color: wheat
@@ -36,4 +27,22 @@ h3 {
 
 .form-group {
   color: wheat
+}
+.reachout {
+  border: 12px;
+  border-color: blueviolet;
+  color: antiquewhite;
+}
+.jumbotron {
+  background: rgb(219,149,228);
+  background: linear-gradient(90deg, rgba(219,149,228,1) 27%, rgba(123,64,167,1) 100%);
+  opacity: 80%;
+}
+.lead {
+  color: antiquewhite;
+}
+
+.card-body {
+  color: #bd4aaa;
+  font-style: oblique;
 }
