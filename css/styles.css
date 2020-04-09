@@ -1,39 +1,46 @@
 body {
+  color: wheat;
   background-image: url(https://wallpaperplay.com/walls/full/4/e/0/67920.jpg);
 }
+
 h1 {
   text-align: center;
   color: antiquewhite;
 }
+
+h2 {
+  text-align: right;
+  color: antiquewhite;
+}
+
 h3 {
   text-align: center;
 }
-.important {
-  text-align: center;
-  color: aquamarine;
-  font-style: italic;
-}
-
-.strong {
-  color: cadetblue;
-  font-weight: bold
-}
 
 .big {
-  font-size: 24px;
+  font-size: 36px;
+  color: antiquewhite;
 }
-.col-md-4 {
-  color: wheat
-}
-
-.col-md-3 {
-  color: wheat
-}
-
-.col-md-6 {
-  color: wheat
+.reachout {
+  border: 12px;
+  border-color: blueviolet;
+  color: antiquewhite;
 }
 
-.form-group {
-  color: wheat
+.lead {
+  color: antiquewhite;
+}
+.jumbotron {
+  background: rgb(219, 149, 228);
+  background: linear-gradient(90deg, rgba(219, 149, 228, 1) 27%, rgba(123, 64, 167, 1) 100%);
+  opacity: 80%;
+}
+.card-body {
+  color: #bd4aaa;
+  font-style: oblique;
+}
+img {
+  height: 50%;
+  width: 50%;
+  float: right;
 }
