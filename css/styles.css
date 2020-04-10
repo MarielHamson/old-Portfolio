@@ -56,4 +56,6 @@ img {
   float: right;
   border: 20px;
   border-color: teal;
+  margin: 10px;
+  padding: 10px;
 }
