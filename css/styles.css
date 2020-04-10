@@ -39,8 +39,21 @@ h3 {
   color: #bd4aaa;
   font-style: oblique;
 }
+  
+}
+
+.card {
+  background-color: rgb(219, 149, 228,0);
+}
+
+.strong {
+  font-style: italic;
+}
+
 img {
   height: 50%;
   width: 50%;
   float: right;
+  border: 20px;
+  border-color: teal;
 }
