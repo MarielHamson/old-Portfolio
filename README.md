@@ -1,6 +1,6 @@
 # _{Portfolio Page}_
 
-#### _{website for Mariel Hamson's portfolio of coding projects}, {04.09.2020}_
+#### _{website for Mariel Hamson's portfolio of coding projects}, {04.10.2020}_
 
 #### By _**{Mariel Hamson}**_
 
@@ -11,7 +11,7 @@ _{This website was created to showcase varying projects that Mariel has created 
 ## Setup/Installation Requirements
 
 * _Download a browser (Chrome preferred)_
-* _Navigate to the URL of the site_
+* _Navigate to the URL of the site: https://marielhamson.github.io/Portfolio_
 * _Read content_
 * _Navigate to different pages using the navigation bar_
 
