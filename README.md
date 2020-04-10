@@ -1,6 +1,6 @@
 # _{Portfolio Page}_
 
-#### _{website for Mariel Hamson's portfolio of coding projects}, {04.09.2020}_
+#### _{website for Mariel Hamson's portfolio of coding projects}, {04.10.2020}_
 
 #### By _**{Mariel Hamson}**_
 
